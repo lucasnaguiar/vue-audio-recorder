@@ -3,6 +3,7 @@
 </style>
 
 <template>
+  <h1>Teste</h1>
   <icon-button
     id="download"
     class="ar-icon ar-icon__xs ar-icon--no-border"
